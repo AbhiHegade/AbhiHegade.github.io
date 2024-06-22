@@ -4,10 +4,10 @@
 
 layout: home
 ---
-<p>
+<!-- <p>
 <img src="data_files/my_photo.jpeg" alt="My photo" width="170" height="190" 
     style="float:left; border-radius: 50%; margin-left: 20px; margin-right: 20px; margin-bottom: 20px; margin-top: 20px;" >
-</p>
+</p> -->
 
 
 # Welcome!
