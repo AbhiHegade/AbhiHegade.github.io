@@ -7,5 +7,5 @@ My CV can be downloaded <a href="{{ site.url }}{{ site.baseurl }}/data_files/CV_
 
 
 <!-- <embed src="data_files/CV_Long_Academia.pdf" width="500" height="375" > -->
-<object data="{{ site.url }}{{ site.baseurl }}/data_files/CV_Long_Academia.pdf" width="800" height="400" type="application/pdf">
+<object data="{{ site.url }}{{ site.baseurl }}/data_files/resume_abhishek_hegade_long.pdf" width="800" height="400" type="application/pdf">
 </object>
