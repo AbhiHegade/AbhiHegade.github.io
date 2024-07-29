@@ -8,6 +8,10 @@ My papers can be found on
 and 
 <a href="https://arxiv.org/search/gr-qc?searchtype=author&query=R.,+A+H+K" target = "_blank"> arXiv </a>. 
 A brief description of my research projects is provided below.
+Some of the computer codes used in the projects below are available on my 
+<a href="https://github.com/AbhiHegade" target = "_blank"> github page </a>.
+Code to reproduce the parameter estimation results of GW170817 with dissipative tidal effects can be found 
+<a href="https://github.com/JLRipley314/NRTidal-D" target = "_blank"> here </a>.
 
 # Tides in neutron star binary systems
 Gravitational wave measurements from neutron star binary systems can be used to infer the equation of state of a neutron star. To facilitate this inference, one needs to model the tidal dynamics accurately. I have developed a formalism capable of incorporating dynamical effects on the tides due to the oscillation of stars. I am also interested in developing tidal models capable of incorporating the effects of shear and bulk viscous dissipation and measuring the properties of these transport coefficients using gravitational wave observations. For more information on these topics, see
