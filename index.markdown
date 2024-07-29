@@ -19,4 +19,4 @@ Before joining UIUC, I was an undergrad at the Chennai Mathematical Institute wh
 My research interests currently include, modeling dynamical and dissipative tides in binary systems, understanding out-of-equilibrium relativistic fluid dynamics and gravitational wave data analysis. 
 Please visit the [research page]({{ site.baseurl }}{% link research.md %}) for a description of my research projects. 
 <!-- My resume is available <a href="data_files/CV_Long_Academia.pdf" target="_blank">here</a>.  -->
-My CV is available [here]({{ site.baseurl }}{% link cv.md %}).
+My CV is available [here]({{ site.baseurl }}{% link cv.md %}) and you can visit my Linkedin profile <a href = "https://www.linkedin.com/in/abhishek-hegade-k-r-70492830b/" target = "_blank"> here</a>. 
