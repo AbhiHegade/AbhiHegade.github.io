@@ -16,6 +16,7 @@ Code to reproduce the parameter estimation results of GW170817 with dissipative 
 # Tides in neutron star binary systems
 Gravitational wave measurements from neutron star binary systems can be used to infer the equation of state of a neutron star. To facilitate this inference, one needs to model the tidal dynamics accurately. I have developed a formalism capable of incorporating dynamical effects on the tides due to the oscillation of stars. I am also interested in developing tidal models capable of incorporating the effects of shear and bulk viscous dissipation and measuring the properties of these transport coefficients using gravitational wave observations. For more information on these topics, see
 
+- <a href="https://arxiv.org/abs/2407.02584" target= "_blank"> 1 Post-Newtonian correction to dissipative tides</a>.
 - <a href="https://arxiv.org/abs/2403.03254" target="_blank">Modeling dynamical tides</a>
 - <a href="https://arxiv.org/abs/2312.11659" target="_blank">Constraints on out-of-equilibrium effects using GW170817</a>
 - <a href="https://arxiv.org/abs/2306.15633" target="_blank">Gravitational waveform</a>
