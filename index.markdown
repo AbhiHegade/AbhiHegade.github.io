@@ -12,8 +12,23 @@ layout: home
 
 # Welcome!
 
-I'm a fourth year graduate student at the University of Illinois Urbana-Champaign (UIUC) working under the guidance of Nicolas Yunes. 
-During my PhD, I have also had the pleasure of learning from and working with Justin Ripley, Jorge Noronha, Elias Most and Helvi Witek. 
+I'm a fourth year graduate student at the University of Illinois Urbana-Champaign (UIUC) working under the guidance of 
+<a href = "https://physics.illinois.edu/people/directory/profile/nyunes" target = "_blank">
+Nicolas Yunes
+</a>.
+During my PhD, I have also had the pleasure of learning from and working with 
+<a href = "https://jlripley314.github.io/" target = "_blank">
+Justin Ripley
+</a>, 
+<a href = "https://physics.illinois.edu/people/directory/profile/jn0508" target = "_blank">
+Jorge Noronha
+</a>, 
+<a href = "https://comp-relastro.caltech.edu/" target = "_blank">
+Elias Most
+</a>, 
+<a href = "https://physics.illinois.edu/people/directory/profile/hwitek" target = "_blank">
+Helvi Witek
+</a>.
 Before joining UIUC, I was an undergrad at the Chennai Mathematical Institute where I worked with K. G. Arun and Alok Laddha.
 
 My research interests currently include, modeling dynamical and dissipative tides in binary systems, understanding out-of-equilibrium relativistic fluid dynamics and gravitational wave data analysis. 
