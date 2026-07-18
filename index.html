@@ -1,0 +1,87 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abhishek Hegade | Theoretical Physicist at Princeton</title>
+  <meta name="description" content="Abhishek Hegade is a theoretical physicist and Associate Research Scholar at the Princeton Gravity Initiative working on general relativity, gravitational waves, neutron stars, black holes, and relativistic fluids.">
+  <meta name="author" content="Abhishek Hegade">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}/">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="Abhishek Hegade | Theoretical Physicist">
+  <meta property="og:description" content="Research in gravitation, gravitational waves, neutron stars, black holes, and relativistic fluid dynamics.">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Abhishek Hegade",
+      "alternateName": [
+        "Abhishek Hegade K. R.",
+        "Abhishek Hegade Kumbale Raveesha"
+      ],
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "jobTitle": "Associate Research Scholar",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Princeton University"
+      },
+      "sameAs": [
+        "https://phy.princeton.edu/people/abhishek-hegade-kumbale-raveesha",
+        "https://scholar.google.com/citations?hl=en&user=qj3fAIMAAAAJ",
+        "https://inspirehep.net/authors/1946826",
+        "https://github.com/AbhiHegade",
+        "https://www.linkedin.com/in/abhishek-hegade-k-r-70492830b"
+      ],
+      "knowsAbout": [
+        "General relativity",
+        "Gravitational waves",
+        "Neutron stars",
+        "Black holes",
+        "Relativistic hydrodynamics",
+        "Compact binaries"
+      ]
+    }
+  }
+  </script>
+</head>
+<body class="tabbed-site">
+  <header class="site-header">
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">Menu</button>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a class="tab-link" href="#home" data-tab="home">Home</a>
+      <a class="tab-link" href="#research" data-tab="research">Research</a>
+      <a class="nav-cv" href="{{ '/assets/CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">CV</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="tab-panel active" id="home" data-panel="home">
+      {% capture home_content %}{% include content/home.md %}{% endcapture %}
+      {{ home_content | markdownify }}
+    </section>
+
+    <section class="tab-panel" id="research" data-panel="research" hidden>
+      {% capture research_content %}{% include content/research.md %}{% endcapture %}
+      {{ research_content | markdownify }}
+    </section>
+
+  </main>
+
+  <footer class="site-footer shell">
+    <p>© <span id="year"></span> Abhishek Hegade K. R.</p>
+    <a href="#top">Back to top ↑</a>
+  </footer>
+  <script defer src="{{ '/assets/main.js' | relative_url }}"></script>
+</body>
+</html>
