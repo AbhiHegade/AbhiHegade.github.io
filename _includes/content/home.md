@@ -19,7 +19,6 @@
 I am an Associate Research Scholar with the Princeton Gravity Initiative. I study the dynamics of strongly gravitating systems. Currently, I am interested in tidal dynamics of neutron stars, modeling the extreme mass ratio inspirals in accretion disks and analyzing the impact of weakly collisional effects in accretion disks around supermassive black holes. 
 
 Before joing Princeton, I was a PhD student at University of Illinois Urbana-Champaign working with Nicolás Yunes. I finished my undergraduate studies at the Chennai Mathematical Institute.
-{: .lede }
 
 <div class="hero-links">
   <a class="button primary tab-link" href="#research" data-tab="research">Explore my research</a>

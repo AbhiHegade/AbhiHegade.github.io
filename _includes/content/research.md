@@ -12,11 +12,11 @@
   </nav>
 </div>
 
-<div class="section shell research-topics">
+<div class="section shell research-topics" markdown="1">
 
 <h1 id="neutron-star-tides">Tides in neutron star binary systems</h1>
 
-## Mode sums
+## Relativistic mode sums
 
 I am interested in developing a relativistic mode-sum description of neutron-star tidal response. This work clarifies how the familiar Newtonian picture of forced stellar oscillations extends to general relativity, how relativistic overlap integrals should be defined, and when a low-mode approximation accurately reproduces the full tidal response.
 
