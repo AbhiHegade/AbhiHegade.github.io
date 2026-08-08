@@ -16,9 +16,9 @@
     <p class="eyebrow">Gravitational waves · compact objects · relativistic fluids</p>
     <h1>Abhishek Hegade K. R.</h1>
 
-I am an Associate Research Scholar with the Princeton Gravity Initiative. I study the dynamics of strongly gravitating systems. Currently, I am interested in tidal dynamics of neutron stars, modeling the extreme mass ratio inspirals in accretion disks and analyzing the impact of weakly collisional effects in accretion disks around supermassive black holes. 
+I am an Associate Research Scholar at the Princeton Gravity Initiative, where I study the dynamics of strongly gravitating systems. My current research focuses on the tidal dynamics of neutron stars, extreme mass-ratio inspirals in accretion disks, and the effects of weakly collisional plasma physics on accretion flows around supermassive black holes.
 
-Before joing Princeton, I was a PhD student at University of Illinois Urbana-Champaign working with Nicolás Yunes. I finished my undergraduate studies at the Chennai Mathematical Institute.
+Before joining Princeton, I completed my PhD at the University of Illinois Urbana-Champaign under the supervision of Prof. Nicolás Yunes. I received my undergraduate degree from the Chennai Mathematical Institute.
 
 <div class="hero-links">
   <a class="button primary tab-link" href="#research" data-tab="research">Explore my research</a>
