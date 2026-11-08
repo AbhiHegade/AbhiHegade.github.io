@@ -55,6 +55,7 @@ Extreme mass-ratio inspirals (EMRIs) embedded in accretion disks provide a uniqu
 
 - <a href="https://arxiv.org/abs/2509.20457" target="_blank">Relativistic treatment of accretion disk torques on extreme mass-ratio inspirals around nonspinning black holes</a>
 - <a href="https://arxiv.org/abs/2510.03564" target="_blank">Relativistic treatment of accretion disk torques on extreme mass ratio inspirals around spinning black holes</a>
+- <a href="https://arxiv.org/pdf/2608.17003" target="_blank">Extreme-Mass-Ratio Inspirals in Gaseous Disks</a>
 
 ---
 
